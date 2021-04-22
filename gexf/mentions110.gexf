@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2021-04-22">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="networkx_key" type="long" />
+    </attributes>
+    <nodes>
+      <node id="one america news" label="one america news" />
+      <node id="newsmax" label="newsmax" />
+      <node id="donald j. trump" label="donald j. trump" />
+      <node id="senator ted cruz" label="senator ted cruz" />
+      <node id="house republicans" label="house republicans" />
+      <node id="senate republicans" label="senate republicans" />
+      <node id="gop" label="gop" />
+      <node id="greg kelly" label="greg kelly" />
+    </nodes>
+    <edges>
+      <edge id="0" source="one america news" target="newsmax" weight="1.0">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="one america news" target="greg kelly" weight="0.0363636363636366">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="newsmax" target="greg kelly" weight="0.0363636363636366">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="donald j. trump" target="senator ted cruz" weight="0.5272727272727273">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="donald j. trump" target="gop" weight="0.0727272727272727">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="donald j. trump" target="senate republicans" weight="0.0545454545454546">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="donald j. trump" target="house republicans" weight="0.0">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="house republicans" target="senate republicans" weight="0.2363636363636363">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

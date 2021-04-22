@@ -1,0 +1,1054 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2021-04-22">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="networkx_key" type="long" />
+    </attributes>
+    <nodes>
+      <node id="one america news" label="one america news" />
+      <node id="newsmax" label="newsmax" />
+      <node id="donald j. trump" label="donald j. trump" />
+      <node id="senator ted cruz" label="senator ted cruz" />
+      <node id="house republicans" label="house republicans" />
+      <node id="senate republicans" label="senate republicans" />
+      <node id="gop" label="gop" />
+      <node id="greg kelly" label="greg kelly" />
+      <node id="brandon straka" label="brandon straka" />
+      <node id="ezra a. cohen" label="ezra a. cohen" />
+      <node id="u.s. supreme court" label="u.s. supreme court" />
+      <node id="senator john cornyn" label="senator john cornyn" />
+      <node id="ronna mcdaniel" label="ronna mcdaniel" />
+      <node id="troy nehls" label="troy nehls" />
+      <node id="vice president kamala harris" label="vice president kamala harris" />
+      <node id="mike pence" label="mike pence" />
+      <node id="rudy w. giuliani" label="rudy w. giuliani" />
+      <node id="kevin mccarthy" label="kevin mccarthy" />
+      <node id="nbc news" label="nbc news" />
+      <node id="fox news" label="fox news" />
+      <node id="donald trump jr." label="donald trump jr." />
+      <node id="lin wood" label="lin wood" />
+      <node id="sidney powell 🇺🇸⭐⭐⭐ #kraken" label="sidney powell 🇺🇸⭐⭐⭐ #kraken" />
+      <node id="breitbart news" label="breitbart news" />
+      <node id="general flynn" label="general flynn" />
+      <node id="politico" label="politico" />
+      <node id="ozy" label="ozy" />
+      <node id="vox" label="vox" />
+      <node id="the daily beast" label="the daily beast" />
+      <node id="huffpost life" label="huffpost life" />
+      <node id="reason" label="reason" />
+      <node id="yahoo news" label="yahoo news" />
+      <node id="the week" label="the week" />
+      <node id="the new yorker" label="the new yorker" />
+      <node id="slate" label="slate" />
+      <node id="kelly loeffler" label="kelly loeffler" />
+      <node id="david perdue" label="david perdue" />
+      <node id="senator john thune" label="senator john thune" />
+      <node id="tom cotton" label="tom cotton" />
+    </nodes>
+    <edges>
+      <edge id="0" source="one america news" target="newsmax" weight="1.0">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="one america news" target="greg kelly" weight="0.5793650793650793">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="one america news" target="donald j. trump" weight="0.5317460317460317">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="one america news" target="brandon straka" weight="0.4841269841269842">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="one america news" target="ezra a. cohen" weight="0.4841269841269842">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="one america news" target="house republicans" weight="0.4841269841269842">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="one america news" target="u.s. supreme court" weight="0.4841269841269842">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="one america news" target="senate republicans" weight="0.4841269841269842">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="one america news" target="fox news" weight="0.1746031746031746">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="one america news" target="breitbart news" weight="0.1349206349206349">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="one america news" target="nbc news" weight="0.0476190476190476">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="11" source="one america news" target="vox" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="one america news" target="reason" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="one america news" target="slate" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="one america news" target="the new yorker" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="15" source="one america news" target="ozy" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="16" source="one america news" target="the daily beast" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="17" source="one america news" target="politico" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="18" source="one america news" target="yahoo news" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="19" source="one america news" target="the week" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="20" source="one america news" target="huffpost life" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="21" source="one america news" target="sidney powell 🇺🇸⭐⭐⭐ #kraken" weight="0.0">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="22" source="newsmax" target="greg kelly" weight="0.5793650793650793">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="23" source="newsmax" target="donald j. trump" weight="0.5238095238095238">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="24" source="newsmax" target="senate republicans" weight="0.4841269841269842">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="25" source="newsmax" target="u.s. supreme court" weight="0.4761904761904761">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="26" source="newsmax" target="house republicans" weight="0.4761904761904761">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="27" source="newsmax" target="brandon straka" weight="0.4761904761904761">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="28" source="newsmax" target="ezra a. cohen" weight="0.4761904761904761">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="29" source="newsmax" target="fox news" weight="0.1666666666666666">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="30" source="newsmax" target="breitbart news" weight="0.1349206349206349">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="31" source="newsmax" target="nbc news" weight="0.0476190476190476">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="32" source="newsmax" target="reason" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="33" source="newsmax" target="politico" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="34" source="newsmax" target="ozy" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="35" source="newsmax" target="yahoo news" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="36" source="newsmax" target="the new yorker" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="37" source="newsmax" target="the daily beast" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="38" source="newsmax" target="slate" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="39" source="newsmax" target="huffpost life" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="40" source="newsmax" target="vox" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="41" source="newsmax" target="the week" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="42" source="donald j. trump" target="senator ted cruz" weight="0.7936507936507937">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="43" source="donald j. trump" target="gop" weight="0.2380952380952381">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="44" source="donald j. trump" target="senate republicans" weight="0.0793650793650794">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="45" source="donald j. trump" target="house republicans" weight="0.0634920634920634">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="46" source="donald j. trump" target="ezra a. cohen" weight="0.4841269841269842">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="47" source="donald j. trump" target="greg kelly" weight="0.4841269841269842">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="48" source="donald j. trump" target="brandon straka" weight="0.4841269841269842">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="49" source="donald j. trump" target="u.s. supreme court" weight="0.4841269841269842">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="50" source="donald j. trump" target="senator john cornyn" weight="0.0158730158730159">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="51" source="donald j. trump" target="ronna mcdaniel" weight="0.0">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="52" source="donald j. trump" target="troy nehls" weight="0.4444444444444444">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="53" source="donald j. trump" target="mike pence" weight="0.0238095238095238">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="54" source="donald j. trump" target="vice president kamala harris" weight="0.2857142857142857">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="55" source="donald j. trump" target="rudy w. giuliani" weight="0.2539682539682539">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="56" source="donald j. trump" target="donald trump jr." weight="0.1746031746031746">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="57" source="donald j. trump" target="lin wood" weight="0.1269841269841269">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="58" source="donald j. trump" target="kevin mccarthy" weight="0.1031746031746032">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="59" source="donald j. trump" target="sidney powell 🇺🇸⭐⭐⭐ #kraken" weight="0.0238095238095238">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="60" source="donald j. trump" target="senator john thune" weight="0.0079365079365079">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="61" source="donald j. trump" target="general flynn" weight="0.0">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="62" source="senator ted cruz" target="senator john cornyn" weight="0.3412698412698413">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="63" source="senator ted cruz" target="gop" weight="0.3333333333333333">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="64" source="senator ted cruz" target="ronna mcdaniel" weight="0.3174603174603174">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="65" source="senator ted cruz" target="troy nehls" weight="0.3174603174603174">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="66" source="senator ted cruz" target="mike pence" weight="0.0793650793650794">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="67" source="house republicans" target="senate republicans" weight="0.3095238095238095">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="68" source="house republicans" target="greg kelly" weight="0.4920634920634921">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="69" source="house republicans" target="brandon straka" weight="0.4841269841269842">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="70" source="house republicans" target="ezra a. cohen" weight="0.4841269841269842">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="71" source="house republicans" target="u.s. supreme court" weight="0.4841269841269842">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="72" source="house republicans" target="gop" weight="0.1984126984126983">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="73" source="house republicans" target="kevin mccarthy" weight="0.0952380952380952">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="74" source="house republicans" target="senator john cornyn" weight="0.0238095238095238">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="75" source="house republicans" target="senator john thune" weight="0.0079365079365079">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="76" source="house republicans" target="tom cotton" weight="0.0079365079365079">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="77" source="house republicans" target="ronna mcdaniel" weight="0.0">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="78" source="senate republicans" target="greg kelly" weight="0.5">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="79" source="senate republicans" target="brandon straka" weight="0.4841269841269842">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="80" source="senate republicans" target="u.s. supreme court" weight="0.4841269841269842">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="81" source="senate republicans" target="ezra a. cohen" weight="0.4841269841269842">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="82" source="senate republicans" target="gop" weight="0.1904761904761904">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="83" source="senate republicans" target="kevin mccarthy" weight="0.1031746031746032">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="84" source="senate republicans" target="senator john cornyn" weight="0.0238095238095238">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="85" source="senate republicans" target="senator john thune" weight="0.0079365079365079">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="86" source="senate republicans" target="ronna mcdaniel" weight="0.0079365079365079">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="87" source="senate republicans" target="tom cotton" weight="0.0">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="88" source="gop" target="ronna mcdaniel" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="89" source="gop" target="senator john cornyn" weight="0.0317460317460317">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="90" source="gop" target="troy nehls" weight="0.4444444444444444">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="91" source="gop" target="mike pence" weight="0.1984126984126983">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="92" source="gop" target="kevin mccarthy" weight="0.1825396825396825">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="93" source="gop" target="vice president kamala harris" weight="0.1349206349206349">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="94" source="gop" target="senator john thune" weight="0.0079365079365079">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="95" source="gop" target="tom cotton" weight="0.0">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="96" source="greg kelly" target="brandon straka" weight="0.4761904761904761">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="97" source="greg kelly" target="ezra a. cohen" weight="0.4761904761904761">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="98" source="greg kelly" target="u.s. supreme court" weight="0.4761904761904761">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="99" source="brandon straka" target="ezra a. cohen" weight="0.4841269841269842">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="100" source="brandon straka" target="u.s. supreme court" weight="0.4841269841269842">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="101" source="ezra a. cohen" target="u.s. supreme court" weight="0.4841269841269842">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="102" source="senator john cornyn" target="troy nehls" weight="0.4523809523809523">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="103" source="senator john cornyn" target="ronna mcdaniel" weight="0.0">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="104" source="senator john cornyn" target="mike pence" weight="0.1349206349206349">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="105" source="senator john cornyn" target="vice president kamala harris" weight="0.0555555555555555">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="106" source="senator john cornyn" target="senator john thune" weight="0.0158730158730159">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="107" source="senator john cornyn" target="kevin mccarthy" weight="0.0158730158730159">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="108" source="senator john cornyn" target="tom cotton" weight="0.0">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="109" source="ronna mcdaniel" target="troy nehls" weight="0.4444444444444444">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="110" source="ronna mcdaniel" target="mike pence" weight="0.1428571428571429">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="111" source="ronna mcdaniel" target="vice president kamala harris" weight="0.0555555555555555">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="112" source="ronna mcdaniel" target="kevin mccarthy" weight="0.0317460317460317">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="113" source="troy nehls" target="mike pence" weight="0.1269841269841269">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="114" source="troy nehls" target="vice president kamala harris" weight="0.0476190476190476">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="115" source="vice president kamala harris" target="mike pence" weight="0.3888888888888888">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="116" source="rudy w. giuliani" target="sidney powell 🇺🇸⭐⭐⭐ #kraken" weight="0.0">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="117" source="kevin mccarthy" target="senator john thune" weight="0.0079365079365079">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="118" source="nbc news" target="fox news" weight="0.1825396825396825">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="119" source="nbc news" target="the week" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="120" source="nbc news" target="yahoo news" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="121" source="nbc news" target="breitbart news" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="122" source="nbc news" target="ozy" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="123" source="nbc news" target="reason" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="124" source="nbc news" target="politico" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="125" source="nbc news" target="vox" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="126" source="nbc news" target="the new yorker" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="127" source="nbc news" target="slate" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="128" source="nbc news" target="huffpost life" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="129" source="nbc news" target="the daily beast" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="130" source="fox news" target="yahoo news" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="131" source="fox news" target="vox" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="132" source="fox news" target="the week" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="133" source="fox news" target="politico" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="134" source="fox news" target="huffpost life" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="135" source="fox news" target="ozy" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="136" source="fox news" target="slate" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="137" source="fox news" target="the new yorker" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="138" source="fox news" target="reason" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="139" source="fox news" target="breitbart news" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="140" source="fox news" target="the daily beast" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="141" source="lin wood" target="sidney powell 🇺🇸⭐⭐⭐ #kraken" weight="0.1666666666666666">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="142" source="sidney powell 🇺🇸⭐⭐⭐ #kraken" target="general flynn" weight="0.0793650793650794">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="143" source="breitbart news" target="the daily beast" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="144" source="breitbart news" target="yahoo news" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="145" source="breitbart news" target="huffpost life" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="146" source="breitbart news" target="ozy" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="147" source="breitbart news" target="reason" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="148" source="breitbart news" target="politico" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="149" source="breitbart news" target="the week" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="150" source="breitbart news" target="vox" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="151" source="breitbart news" target="the new yorker" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="152" source="breitbart news" target="slate" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="153" source="politico" target="ozy" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="154" source="politico" target="vox" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="155" source="politico" target="reason" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="156" source="politico" target="the new yorker" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="157" source="politico" target="slate" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="158" source="politico" target="the daily beast" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="159" source="politico" target="yahoo news" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="160" source="politico" target="the week" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="161" source="politico" target="huffpost life" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="162" source="ozy" target="the daily beast" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="163" source="ozy" target="vox" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="164" source="ozy" target="reason" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="165" source="ozy" target="yahoo news" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="166" source="ozy" target="slate" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="167" source="ozy" target="huffpost life" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="168" source="ozy" target="the week" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="169" source="ozy" target="the new yorker" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="170" source="vox" target="reason" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="171" source="vox" target="slate" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="172" source="vox" target="the new yorker" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="173" source="vox" target="the week" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="174" source="vox" target="the daily beast" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="175" source="vox" target="yahoo news" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="176" source="vox" target="huffpost life" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="177" source="the daily beast" target="huffpost life" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="178" source="the daily beast" target="the new yorker" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="179" source="the daily beast" target="reason" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="180" source="the daily beast" target="yahoo news" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="181" source="the daily beast" target="the week" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="182" source="the daily beast" target="slate" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="183" source="huffpost life" target="reason" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="184" source="huffpost life" target="slate" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="185" source="huffpost life" target="the week" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="186" source="huffpost life" target="the new yorker" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="187" source="huffpost life" target="yahoo news" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="188" source="reason" target="slate" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="189" source="reason" target="the new yorker" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="190" source="reason" target="the week" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="191" source="reason" target="yahoo news" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="192" source="yahoo news" target="the new yorker" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="193" source="yahoo news" target="slate" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="194" source="yahoo news" target="the week" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="195" source="the week" target="slate" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="196" source="the week" target="the new yorker" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="197" source="the new yorker" target="slate" weight="0.0396825396825397">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="198" source="kelly loeffler" target="david perdue" weight="0.0238095238095238">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="199" source="senator john thune" target="tom cotton" weight="0.0">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
