@@ -1,0 +1,2734 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2021-04-22">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="networkx_key" type="long" />
+    </attributes>
+    <nodes>
+      <node id="americafirst" label="americafirst" />
+      <node id="auditallvotes" label="auditallvotes" />
+      <node id="maga" label="maga" />
+      <node id="stopthesteal" label="stopthesteal" />
+      <node id="trump" label="trump" />
+      <node id="marchfortrump" label="marchfortrump" />
+      <node id="fightfortrump" label="fightfortrump" />
+      <node id="trumpwon" label="trumpwon" />
+      <node id="trump2020" label="trump2020" />
+      <node id="世界をひっくり返そう" label="世界をひっくり返そう" />
+      <node id="wethepeople" label="wethepeople" />
+      <node id="stopthecoup" label="stopthecoup" />
+      <node id="fightback" label="fightback" />
+      <node id="kag" label="kag" />
+      <node id="draintheswamp" label="draintheswamp" />
+      <node id="electionfraud" label="electionfraud" />
+      <node id="jan6" label="jan6" />
+      <node id="speakupgop" label="speakupgop" />
+      <node id="primaryrinos" label="primaryrinos" />
+      <node id="gop" label="gop" />
+      <node id="georgia" label="georgia" />
+      <node id="traitortrump" label="traitortrump" />
+      <node id="electionintegritymatters" label="electionintegritymatters" />
+      <node id="trumplieseverytimehespeaks" label="trumplieseverytimehespeaks" />
+      <node id="trumpcorruption" label="trumpcorruption" />
+      <node id="capitol" label="capitol" />
+      <node id="voterfraud" label="voterfraud" />
+      <node id="washingtondc" label="washingtondc" />
+      <node id="electionfraud2020" label="electionfraud2020" />
+      <node id="usa" label="usa" />
+      <node id="fightforamerica" label="fightforamerica" />
+      <node id="holdtheline" label="holdtheline" />
+      <node id="saveamerica" label="saveamerica" />
+      <node id="kraken" label="kraken" />
+      <node id="america" label="america" />
+      <node id="antifa" label="antifa" />
+      <node id="election2020" label="election2020" />
+      <node id="patriotparty" label="patriotparty" />
+      <node id="savetrumplandslide" label="savetrumplandslide" />
+      <node id="trumprally" label="trumprally" />
+      <node id="stopthesteai2021" label="stopthesteai2021" />
+      <node id="january6th" label="january6th" />
+      <node id="electionintegrity" label="electionintegrity" />
+      <node id="patriots" label="patriots" />
+      <node id="dc" label="dc" />
+      <node id="stopthesteal2020" label="stopthesteal2020" />
+      <node id="maga2020" label="maga2020" />
+      <node id="freedom" label="freedom" />
+      <node id="millionmoronmarch" label="millionmoronmarch" />
+      <node id="wwg1wga" label="wwg1wga" />
+      <node id="donotcertify" label="donotcertify" />
+      <node id="treason" label="treason" />
+      <node id="trump2020tosaveamerica" label="trump2020tosaveamerica" />
+      <node id="whitehouse" label="whitehouse" />
+      <node id="jan6th" label="jan6th" />
+      <node id="dominion" label="dominion" />
+      <node id="democrats" label="democrats" />
+      <node id="congress" label="congress" />
+      <node id="standwithtrump" label="standwithtrump" />
+      <node id="italydidit" label="italydidit" />
+      <node id="trump2021" label="trump2021" />
+      <node id="miga" label="miga" />
+      <node id="stopthesteai" label="stopthesteai" />
+      <node id="bidencheated" label="bidencheated" />
+      <node id="bidencheated2020" label="bidencheated2020" />
+      <node id="electoralcollege" label="electoralcollege" />
+      <node id="insurrectionact" label="insurrectionact" />
+      <node id="fraud" label="fraud" />
+      <node id="dcprotests" label="dcprotests" />
+      <node id="election" label="election" />
+      <node id="millionmagamarch" label="millionmagamarch" />
+      <node id="fakenews" label="fakenews" />
+      <node id="saveamericamarch" label="saveamericamarch" />
+      <node id="potus" label="potus" />
+      <node id="blm" label="blm" />
+      <node id="democratsarecorrupt" label="democratsarecorrupt" />
+      <node id="walkaway" label="walkaway" />
+      <node id="fourmoreyears" label="fourmoreyears" />
+      <node id="savetherepublic" label="savetherepublic" />
+      <node id="saveamericarally" label="saveamericarally" />
+      <node id="rigged" label="rigged" />
+      <node id="pence" label="pence" />
+      <node id="godblessamerica" label="godblessamerica" />
+      <node id="donaldtrump" label="donaldtrump" />
+      <node id="constitution" label="constitution" />
+      <node id="bidenwillneverbepresident" label="bidenwillneverbepresident" />
+      <node id="trumptrain" label="trumptrain" />
+      <node id="overturn" label="overturn" />
+      <node id="fightlikeaflynn" label="fightlikeaflynn" />
+      <node id="riggedelection" label="riggedelection" />
+      <node id="dcrally" label="dcrally" />
+      <node id="trumpmarch" label="trumpmarch" />
+      <node id="capitolbuilding" label="capitolbuilding" />
+      <node id="restart_opposition" label="restart_opposition" />
+      <node id="patriotswaiting" label="patriotswaiting" />
+      <node id="defendtherepublic" label="defendtherepublic" />
+      <node id="marchtosaveamerica" label="marchtosaveamerica" />
+      <node id="biden" label="biden" />
+      <node id="scotus" label="scotus" />
+      <node id="mailinballots" label="mailinballots" />
+      <node id="dcprotest" label="dcprotest" />
+      <node id="republicans" label="republicans" />
+      <node id="warroompandemic" label="warroompandemic" />
+      <node id="capitolhill" label="capitolhill" />
+      <node id="democratscheated" label="democratscheated" />
+      <node id="rinos" label="rinos" />
+      <node id="supremecourt" label="supremecourt" />
+      <node id="mathisreal" label="mathisreal" />
+      <node id="stopthefraud" label="stopthefraud" />
+      <node id="eeuu" label="eeuu" />
+      <node id="mikepence" label="mikepence" />
+      <node id="stopthesqueal" label="stopthesqueal" />
+      <node id="stopthesteai2020" label="stopthesteai2020" />
+      <node id="tcot" label="tcot" />
+      <node id="sidneypowell" label="sidneypowell" />
+      <node id="swamp" label="swamp" />
+      <node id="stopthesteal2021" label="stopthesteal2021" />
+      <node id="1776again" label="1776again" />
+      <node id="proudboys" label="proudboys" />
+      <node id="4moreyears" label="4moreyears" />
+      <node id="antifaterrorists" label="antifaterrorists" />
+      <node id="washington" label="washington" />
+      <node id="votes" label="votes" />
+      <node id="coup" label="coup" />
+      <node id="deepstate" label="deepstate" />
+      <node id="drellenbrandt" label="drellenbrandt" />
+      <node id="realdonaldtrump" label="realdonaldtrump" />
+      <node id="不正選挙" label="不正選挙" />
+      <node id="アメリカ大統領選" label="アメリカ大統領選" />
+      <node id="米大統領選挙" label="米大統領選挙" />
+      <node id="trumppence2020" label="trumppence2020" />
+      <node id="elections2020" label="elections2020" />
+      <node id="freedomplaza" label="freedomplaza" />
+      <node id="ccot" label="ccot" />
+      <node id="foxnews" label="foxnews" />
+      <node id="lawandorder" label="lawandorder" />
+      <node id="rallyindc" label="rallyindc" />
+      <node id="constitutionoftheunitedstatesofamerica" label="constitutionoftheunitedstatesofamerica" />
+      <node id="teaparty" label="teaparty" />
+      <node id="cnn" label="cnn" />
+      <node id="crimesagainsthumanity" label="crimesagainsthumanity" />
+      <node id="presidenttrump" label="presidenttrump" />
+      <node id="live" label="live" />
+      <node id="トランプ大統領" label="トランプ大統領" />
+      <node id="military" label="military" />
+      <node id="resist" label="resist" />
+      <node id="politics" label="politics" />
+      <node id="2020election" label="2020election" />
+      <node id="godwins" label="godwins" />
+      <node id="genz" label="genz" />
+      <node id="cdnpoli" label="cdnpoli" />
+      <node id="millennial" label="millennial" />
+      <node id="nra" label="nra" />
+      <node id="twitter" label="twitter" />
+      <node id="rino" label="rino" />
+      <node id="contecomeclean" label="contecomeclean" />
+      <node id="restartmiga" label="restartmiga" />
+      <node id="news" label="news" />
+      <node id="fightbackforamerica" label="fightbackforamerica" />
+      <node id="covid19" label="covid19" />
+      <node id="stormthecapitol" label="stormthecapitol" />
+      <node id="traitors" label="traitors" />
+      <node id="trumplegalteam" label="trumplegalteam" />
+      <node id="joebiden" label="joebiden" />
+      <node id="voterfraudisreal" label="voterfraudisreal" />
+      <node id="trumptosaveamerica" label="trumptosaveamerica" />
+      <node id="wearewatching" label="wearewatching" />
+      <node id="gasen" label="gasen" />
+      <node id="stopvoterfraud" label="stopvoterfraud" />
+    </nodes>
+    <edges>
+      <edge id="0" source="americafirst" target="auditallvotes" weight="949">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="americafirst" target="stopthesteal" weight="13">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="americafirst" target="maga" weight="32">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="americafirst" target="trump2020" weight="11">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="maga" target="stopthesteal" weight="640">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="maga" target="trump" weight="61">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="maga" target="kag" weight="153">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="maga" target="trump2020" weight="102">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="maga" target="gop" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="maga" target="fightfortrump" weight="11">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="maga" target="kraken" weight="80">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="11" source="maga" target="fightback" weight="40">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="maga" target="marchfortrump" weight="45">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="maga" target="patriotparty" weight="43">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="maga" target="usa" weight="33">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="15" source="maga" target="draintheswamp" weight="40">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="16" source="maga" target="maga2020" weight="39">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="17" source="maga" target="wethepeople" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="18" source="maga" target="stopthesteal2020" weight="36">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="19" source="maga" target="rigged" weight="25">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="20" source="maga" target="georgia" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="21" source="maga" target="trumprally" weight="22">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="22" source="maga" target="patriots" weight="21">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="23" source="maga" target="america" weight="21">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="24" source="maga" target="fightforamerica" weight="18">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="25" source="maga" target="restart_opposition" weight="17">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="26" source="maga" target="election2020" weight="15">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="27" source="maga" target="stopthecoup" weight="14">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="28" source="maga" target="voterfraud" weight="13">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="29" source="maga" target="supremecourt" weight="12">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="30" source="maga" target="millionmagamarch" weight="11">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="31" source="maga" target="electionfraud" weight="8">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="32" source="maga" target="washingtondc" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="33" source="maga" target="congress" weight="10">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="34" source="maga" target="potus" weight="8">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="35" source="maga" target="sidneypowell" weight="8">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="36" source="maga" target="mailinballots" weight="8">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="37" source="maga" target="scotus" weight="7">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="38" source="maga" target="walkaway" weight="7">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="39" source="maga" target="dominion" weight="7">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="40" source="maga" target="trumpwon" weight="6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="41" source="maga" target="election" weight="5">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="42" source="maga" target="trumptrain" weight="5">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="43" source="maga" target="miga" weight="1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="44" source="maga" target="holdtheline" weight="5">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="45" source="maga" target="mikepence" weight="4">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="46" source="maga" target="tcot" weight="4">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="47" source="maga" target="teaparty" weight="4">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="48" source="maga" target="whitehouse" weight="4">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="49" source="maga" target="military" weight="4">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="50" source="maga" target="treason" weight="3">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="51" source="maga" target="capitol" weight="3">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="52" source="maga" target="electionintegrity" weight="3">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="53" source="maga" target="millennial" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="54" source="maga" target="ccot" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="55" source="maga" target="nra" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="56" source="maga" target="genz" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="57" source="maga" target="antifa" weight="1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="58" source="maga" target="restartmiga" weight="1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="59" source="maga" target="trumppence2020" weight="1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="60" source="stopthesteal" target="trump" weight="266">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="61" source="stopthesteal" target="marchfortrump" weight="89">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="62" source="stopthesteal" target="fightfortrump" weight="269">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="63" source="stopthesteal" target="trumpwon" weight="194">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="64" source="stopthesteal" target="trump2020" weight="246">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="65" source="stopthesteal" target="世界をひっくり返そう" weight="245">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="66" source="stopthesteal" target="wethepeople" weight="190">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="67" source="stopthesteal" target="stopthecoup" weight="36">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="68" source="stopthesteal" target="fightback" weight="137">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="69" source="stopthesteal" target="draintheswamp" weight="29">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="70" source="stopthesteal" target="electionfraud" weight="84">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="71" source="stopthesteal" target="jan6" weight="101">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="72" source="stopthesteal" target="speakupgop" weight="118">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="73" source="stopthesteal" target="primaryrinos" weight="117">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="74" source="stopthesteal" target="kag" weight="92">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="75" source="stopthesteal" target="gop" weight="49">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="76" source="stopthesteal" target="georgia" weight="69">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="77" source="stopthesteal" target="traitortrump" weight="29">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="78" source="stopthesteal" target="electionintegritymatters" weight="108">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="79" source="stopthesteal" target="trumplieseverytimehespeaks" weight="105">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="80" source="stopthesteal" target="trumpcorruption" weight="105">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="81" source="stopthesteal" target="capitol" weight="15">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="82" source="stopthesteal" target="voterfraud" weight="39">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="83" source="stopthesteal" target="washingtondc" weight="85">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="84" source="stopthesteal" target="electionfraud2020" weight="88">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="85" source="stopthesteal" target="usa" weight="58">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="86" source="stopthesteal" target="fightforamerica" weight="17">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="87" source="stopthesteal" target="holdtheline" weight="84">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="88" source="stopthesteal" target="saveamerica" weight="26">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="89" source="stopthesteal" target="kraken" weight="82">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="90" source="stopthesteal" target="america" weight="18">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="91" source="stopthesteal" target="antifa" weight="52">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="92" source="stopthesteal" target="election2020" weight="62">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="93" source="stopthesteal" target="patriotparty" weight="3">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="94" source="stopthesteal" target="savetrumplandslide" weight="19">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="95" source="stopthesteal" target="trumprally" weight="31">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="96" source="stopthesteal" target="stopthesteai2021" weight="37">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="97" source="stopthesteal" target="january6th" weight="45">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="98" source="stopthesteal" target="electionintegrity" weight="66">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="99" source="stopthesteal" target="patriots" weight="49">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="100" source="stopthesteal" target="dc" weight="28">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="101" source="stopthesteal" target="stopthesteal2020" weight="62">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="102" source="stopthesteal" target="maga2020" weight="39">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="103" source="stopthesteal" target="freedom" weight="31">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="104" source="stopthesteal" target="wwg1wga" weight="3">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="105" source="stopthesteal" target="donotcertify" weight="27">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="106" source="stopthesteal" target="stopthesteal" weight="52">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="107" source="stopthesteal" target="treason" weight="49">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="108" source="stopthesteal" target="trump2020tosaveamerica" weight="47">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="109" source="stopthesteal" target="whitehouse" weight="46">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="110" source="stopthesteal" target="jan6th" weight="9">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="111" source="stopthesteal" target="dominion" weight="15">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="112" source="stopthesteal" target="democrats" weight="41">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="113" source="stopthesteal" target="congress" weight="16">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="114" source="stopthesteal" target="standwithtrump" weight="36">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="115" source="stopthesteal" target="italydidit" weight="23">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="116" source="stopthesteal" target="trump2021" weight="32">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="117" source="stopthesteal" target="bidencheated" weight="22">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="118" source="stopthesteal" target="bidencheated2020" weight="1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="119" source="stopthesteal" target="electoralcollege" weight="25">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="120" source="stopthesteal" target="insurrectionact" weight="31">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="121" source="stopthesteal" target="fraud" weight="24">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="122" source="stopthesteal" target="dcprotests" weight="22">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="123" source="stopthesteal" target="election" weight="26">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="124" source="stopthesteal" target="millionmagamarch" weight="21">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="125" source="stopthesteal" target="fakenews" weight="25">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="126" source="stopthesteal" target="saveamericamarch" weight="30">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="127" source="stopthesteal" target="potus" weight="29">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="128" source="stopthesteal" target="blm" weight="16">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="129" source="stopthesteal" target="democratsarecorrupt" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="130" source="stopthesteal" target="walkaway" weight="18">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="131" source="stopthesteal" target="fourmoreyears" weight="10">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="132" source="stopthesteal" target="savetherepublic" weight="26">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="133" source="stopthesteal" target="saveamericarally" weight="11">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="134" source="stopthesteal" target="pence" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="135" source="stopthesteal" target="godblessamerica" weight="25">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="136" source="stopthesteal" target="miga" weight="25">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="137" source="stopthesteal" target="stopthesteai" weight="24">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="138" source="stopthesteal" target="donaldtrump" weight="22">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="139" source="stopthesteal" target="constitution" weight="4">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="140" source="stopthesteal" target="bidenwillneverbepresident" weight="21">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="141" source="stopthesteal" target="trumptrain" weight="20">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="142" source="stopthesteal" target="overturn" weight="20">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="143" source="stopthesteal" target="fightlikeaflynn" weight="19">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="144" source="stopthesteal" target="riggedelection" weight="1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="145" source="stopthesteal" target="dcrally" weight="18">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="146" source="stopthesteal" target="trumpmarch" weight="18">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="147" source="stopthesteal" target="capitolbuilding" weight="9">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="148" source="stopthesteal" target="defendtherepublic" weight="17">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="149" source="stopthesteal" target="patriotswaiting" weight="17">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="150" source="stopthesteal" target="marchtosaveamerica" weight="4">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="151" source="stopthesteal" target="biden" weight="12">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="152" source="stopthesteal" target="scotus" weight="16">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="153" source="stopthesteal" target="rigged" weight="4">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="154" source="stopthesteal" target="mailinballots" weight="16">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="155" source="stopthesteal" target="dcprotest" weight="14">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="156" source="stopthesteal" target="republicans" weight="4">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="157" source="stopthesteal" target="warroompandemic" weight="13">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="158" source="stopthesteal" target="capitolhill" weight="1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="159" source="stopthesteal" target="democratscheated" weight="13">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="160" source="stopthesteal" target="rinos" weight="13">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="161" source="stopthesteal" target="mathisreal" weight="12">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="162" source="stopthesteal" target="stopthefraud" weight="8">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="163" source="stopthesteal" target="eeuu" weight="10">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="164" source="stopthesteal" target="mikepence" weight="10">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="165" source="stopthesteal" target="stopthesqueal" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="166" source="stopthesteal" target="stopthesteai2020" weight="10">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="167" source="stopthesteal" target="supremecourt" weight="10">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="168" source="stopthesteal" target="tcot" weight="9">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="169" source="stopthesteal" target="sidneypowell" weight="9">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="170" source="stopthesteal" target="swamp" weight="9">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="171" source="stopthesteal" target="stopthesteal2021" weight="9">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="172" source="stopthesteal" target="1776again" weight="8">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="173" source="stopthesteal" target="proudboys" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="174" source="stopthesteal" target="4moreyears" weight="4">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="175" source="stopthesteal" target="antifaterrorists" weight="3">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="176" source="stopthesteal" target="washington" weight="8">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="177" source="stopthesteal" target="votes" weight="7">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="178" source="stopthesteal" target="coup" weight="7">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="179" source="stopthesteal" target="deepstate" weight="7">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="180" source="stopthesteal" target="drellenbrandt" weight="7">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="181" source="stopthesteal" target="realdonaldtrump" weight="7">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="182" source="stopthesteal" target="不正選挙" weight="6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="183" source="stopthesteal" target="アメリカ大統領選" weight="6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="184" source="stopthesteal" target="trumppence2020" weight="3">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="185" source="stopthesteal" target="elections2020" weight="6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="186" source="stopthesteal" target="freedomplaza" weight="6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="187" source="stopthesteal" target="米大統領選挙" weight="6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="188" source="stopthesteal" target="ccot" weight="5">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="189" source="stopthesteal" target="restart_opposition" weight="5">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="190" source="stopthesteal" target="foxnews" weight="5">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="191" source="stopthesteal" target="lawandorder" weight="5">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="192" source="stopthesteal" target="rallyindc" weight="4">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="193" source="stopthesteal" target="constitutionoftheunitedstatesofamerica" weight="4">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="194" source="stopthesteal" target="cnn" weight="4">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="195" source="stopthesteal" target="crimesagainsthumanity" weight="4">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="196" source="stopthesteal" target="presidenttrump" weight="4">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="197" source="stopthesteal" target="live" weight="4">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="198" source="stopthesteal" target="トランプ大統領" weight="4">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="199" source="stopthesteal" target="teaparty" weight="4">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="200" source="stopthesteal" target="resist" weight="3">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="201" source="stopthesteal" target="military" weight="3">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="202" source="stopthesteal" target="politics" weight="3">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="203" source="stopthesteal" target="2020election" weight="1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="204" source="stopthesteal" target="godwins" weight="3">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="205" source="stopthesteal" target="twitter" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="206" source="stopthesteal" target="millennial" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="207" source="stopthesteal" target="cdnpoli" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="208" source="stopthesteal" target="rino" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="209" source="stopthesteal" target="contecomeclean" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="210" source="stopthesteal" target="nra" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="211" source="stopthesteal" target="restartmiga" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="212" source="stopthesteal" target="genz" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="213" source="stopthesteal" target="news" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="214" source="stopthesteal" target="fightbackforamerica" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="215" source="stopthesteal" target="covid19" weight="1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="216" source="stopthesteal" target="stormthecapitol" weight="1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="217" source="stopthesteal" target="traitors" weight="1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="218" source="stopthesteal" target="trumplegalteam" weight="1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="219" source="stopthesteal" target="joebiden" weight="1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="220" source="stopthesteal" target="trumptosaveamerica" weight="1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="221" source="stopthesteal" target="voterfraudisreal" weight="1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="222" source="stopthesteal" target="gasen" weight="1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="223" source="stopthesteal" target="stopvoterfraud" weight="1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="224" source="trump" target="gop" weight="85">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="225" source="trump" target="kraken" weight="66">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="226" source="trump" target="wethepeople" weight="42">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="227" source="trump" target="trump2020" weight="5">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="228" source="trump" target="patriotparty" weight="40">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="229" source="trump" target="stopthesteal2020" weight="39">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="230" source="trump" target="trumprally" weight="35">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="231" source="trump" target="freedom" weight="32">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="232" source="trump" target="insurrectionact" weight="27">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="233" source="trump" target="jan6th" weight="25">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="234" source="trump" target="capitol" weight="18">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="235" source="trump" target="fightback" weight="18">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="236" source="trump" target="patriotswaiting" weight="17">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="237" source="trump" target="election" weight="17">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="238" source="trump" target="washingtondc" weight="5">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="239" source="trump" target="fightfortrump" weight="4">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="240" source="trump" target="election2020" weight="14">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="241" source="trump" target="kag" weight="14">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="242" source="trump" target="biden" weight="8">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="243" source="trump" target="congress" weight="8">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="244" source="trump" target="dc" weight="8">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="245" source="trump" target="usa" weight="7">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="246" source="trump" target="pence" weight="5">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="247" source="trump" target="mikepence" weight="5">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="248" source="trump" target="maga2020" weight="4">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="249" source="trump" target="capitolbuilding" weight="4">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="250" source="marchfortrump" target="世界をひっくり返そう" weight="237">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="251" source="marchfortrump" target="draintheswamp" weight="25">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="252" source="marchfortrump" target="kag" weight="23">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="253" source="marchfortrump" target="wwg1wga" weight="16">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="254" source="marchfortrump" target="millionmagamarch" weight="10">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="255" source="marchfortrump" target="january6th" weight="7">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="256" source="marchfortrump" target="donotcertify" weight="7">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="257" source="marchfortrump" target="fightfortrump" weight="5">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="258" source="marchfortrump" target="washingtondc" weight="5">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="259" source="marchfortrump" target="jan6" weight="1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="260" source="fightfortrump" target="fightforamerica" weight="58">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="261" source="fightfortrump" target="wethepeople" weight="6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="262" source="fightfortrump" target="fightback" weight="34">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="263" source="fightfortrump" target="jan6" weight="32">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="264" source="fightfortrump" target="draintheswamp" weight="11">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="265" source="fightfortrump" target="democratsarecorrupt" weight="8">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="266" source="fightfortrump" target="fourmoreyears" weight="7">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="267" source="fightfortrump" target="defendtherepublic" weight="6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="268" source="fightfortrump" target="swamp" weight="6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="269" source="fightfortrump" target="rinos" weight="6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="270" source="fightfortrump" target="congress" weight="4">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="271" source="fightfortrump" target="trump2021" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="272" source="fightfortrump" target="trumpwon" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="273" source="trumpwon" target="stopthecoup" weight="12">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="274" source="trumpwon" target="primaryrinos" weight="115">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="275" source="trumpwon" target="electionintegritymatters" weight="82">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="276" source="trumpwon" target="electionfraud2020" weight="82">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="277" source="trumpwon" target="savetrumplandslide" weight="18">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="278" source="trumpwon" target="trump2020" weight="16">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="279" source="trumpwon" target="america" weight="12">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="280" source="trumpwon" target="electionfraud" weight="11">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="281" source="trumpwon" target="voterfraud" weight="10">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="282" source="trumpwon" target="fightback" weight="8">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="283" source="trumpwon" target="trumptrain" weight="7">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="284" source="trumpwon" target="mailinballots" weight="5">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="285" source="trumpwon" target="wethepeople" weight="5">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="286" source="trumpwon" target="treason" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="287" source="trumpwon" target="sidneypowell" weight="1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="288" source="trumpwon" target="supremecourt" weight="1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="289" source="trumpwon" target="scotus" weight="1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="290" source="trump2020" target="miga" weight="34">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="291" source="trump2020" target="patriots" weight="23">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="292" source="trump2020" target="stopthecoup" weight="23">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="293" source="trump2020" target="electionfraud" weight="21">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="294" source="trump2020" target="maga2020" weight="20">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="295" source="trump2020" target="kag" weight="12">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="296" source="trump2020" target="restart_opposition" weight="15">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="297" source="trump2020" target="wethepeople" weight="13">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="298" source="trump2020" target="trumptrain" weight="9">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="299" source="trump2020" target="america" weight="9">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="300" source="trump2020" target="fightback" weight="1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="301" source="trump2020" target="voterfraud" weight="9">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="302" source="trump2020" target="treason" weight="4">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="303" source="trump2020" target="cdnpoli" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="304" source="trump2020" target="antifaterrorists" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="305" source="trump2020" target="mailinballots" weight="1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="306" source="trump2020" target="gop" weight="1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="307" source="trump2020" target="restartmiga" weight="1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="308" source="世界をひっくり返そう" target="wwg1wga" weight="11">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="309" source="wethepeople" target="jan6" weight="11">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="310" source="wethepeople" target="freedom" weight="30">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="311" source="wethepeople" target="fightback" weight="4">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="312" source="wethepeople" target="insurrectionact" weight="27">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="313" source="wethepeople" target="jan6th" weight="25">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="314" source="wethepeople" target="electionfraud" weight="19">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="315" source="wethepeople" target="patriotswaiting" weight="17">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="316" source="wethepeople" target="america" weight="8">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="317" source="wethepeople" target="kag" weight="8">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="318" source="wethepeople" target="fightforamerica" weight="7">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="319" source="wethepeople" target="supremecourt" weight="4">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="320" source="stopthecoup" target="primaryrinos" weight="115">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="321" source="stopthecoup" target="savetrumplandslide" weight="18">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="322" source="stopthecoup" target="electionfraud" weight="21">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="323" source="stopthecoup" target="america" weight="17">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="324" source="stopthecoup" target="voterfraud" weight="16">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="325" source="stopthecoup" target="mailinballots" weight="13">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="326" source="stopthecoup" target="fightback" weight="10">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="327" source="stopthecoup" target="kag" weight="9">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="328" source="stopthecoup" target="sidneypowell" weight="9">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="329" source="stopthecoup" target="scotus" weight="8">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="330" source="stopthecoup" target="rigged" weight="8">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="331" source="stopthecoup" target="supremecourt" weight="8">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="332" source="stopthecoup" target="dominion" weight="7">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="333" source="stopthecoup" target="drellenbrandt" weight="7">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="334" source="stopthecoup" target="trumptrain" weight="7">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="335" source="stopthecoup" target="whitehouse" weight="5">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="336" source="stopthecoup" target="treason" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="337" source="fightback" target="electionfraud" weight="26">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="338" source="fightback" target="dominion" weight="22">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="339" source="fightback" target="voterfraud" weight="16">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="340" source="fightback" target="america" weight="16">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="341" source="fightback" target="election2020" weight="16">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="342" source="fightback" target="kag" weight="12">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="343" source="fightback" target="mailinballots" weight="10">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="344" source="fightback" target="rigged" weight="9">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="345" source="fightback" target="sidneypowell" weight="9">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="346" source="fightback" target="scotus" weight="8">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="347" source="fightback" target="supremecourt" weight="8">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="348" source="fightback" target="whitehouse" weight="6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="349" source="fightback" target="mikepence" weight="3">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="350" source="fightback" target="holdtheline" weight="3">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="351" source="fightback" target="draintheswamp" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="352" source="fightback" target="trumprally" weight="1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="353" source="kag" target="draintheswamp" weight="24">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="354" source="kag" target="dominion" weight="14">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="355" source="kag" target="america" weight="12">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="356" source="kag" target="mailinballots" weight="8">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="357" source="kag" target="rigged" weight="8">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="358" source="kag" target="sidneypowell" weight="8">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="359" source="kag" target="supremecourt" weight="7">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="360" source="kag" target="scotus" weight="7">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="361" source="kag" target="voterfraud" weight="6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="362" source="kag" target="electionfraud" weight="5">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="363" source="kag" target="whitehouse" weight="4">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="364" source="kag" target="gop" weight="1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="365" source="kag" target="trumptrain" weight="1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="366" source="draintheswamp" target="rinos" weight="6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="367" source="draintheswamp" target="defendtherepublic" weight="6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="368" source="draintheswamp" target="swamp" weight="6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="369" source="draintheswamp" target="fourmoreyears" weight="6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="370" source="electionfraud" target="dominion" weight="20">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="371" source="electionfraud" target="voterfraud" weight="17">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="372" source="electionfraud" target="america" weight="16">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="373" source="electionfraud" target="mailinballots" weight="9">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="374" source="electionfraud" target="trumptrain" weight="7">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="375" source="electionfraud" target="sidneypowell" weight="4">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="376" source="electionfraud" target="scotus" weight="3">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="377" source="electionfraud" target="treason" weight="3">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="378" source="electionfraud" target="rigged" weight="3">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="379" source="electionfraud" target="supremecourt" weight="3">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="380" source="jan6" target="donotcertify" weight="6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="381" source="primaryrinos" target="savetrumplandslide" weight="18">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="382" source="gop" target="kraken" weight="62">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="383" source="gop" target="patriotparty" weight="38">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="384" source="gop" target="stopthesteal2020" weight="36">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="385" source="gop" target="usa" weight="3">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="386" source="gop" target="genz" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="387" source="gop" target="teaparty" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="388" source="gop" target="millennial" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="389" source="gop" target="walkaway" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="390" source="gop" target="military" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="391" source="gop" target="ccot" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="392" source="gop" target="tcot" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="393" source="gop" target="nra" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="394" source="traitortrump" target="trumplieseverytimehespeaks" weight="105">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="395" source="traitortrump" target="trumpcorruption" weight="105">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="396" source="electionintegritymatters" target="electionfraud2020" weight="82">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="397" source="trumplieseverytimehespeaks" target="trumpcorruption" weight="105">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="398" source="voterfraud" target="dominion" weight="18">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="399" source="voterfraud" target="america" weight="17">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="400" source="voterfraud" target="mailinballots" weight="11">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="401" source="voterfraud" target="sidneypowell" weight="7">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="402" source="voterfraud" target="rigged" weight="6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="403" source="voterfraud" target="scotus" weight="6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="404" source="voterfraud" target="supremecourt" weight="6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="405" source="voterfraud" target="trumptrain" weight="6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="406" source="voterfraud" target="whitehouse" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="407" source="voterfraud" target="treason" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="408" source="usa" target="walkaway" weight="8">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="409" source="usa" target="tcot" weight="3">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="410" source="usa" target="teaparty" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="411" source="usa" target="military" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="412" source="usa" target="millennial" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="413" source="usa" target="genz" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="414" source="usa" target="ccot" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="415" source="usa" target="nra" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="416" source="kraken" target="patriotparty" weight="38">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="417" source="kraken" target="stopthesteal2020" weight="36">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="418" source="america" target="mailinballots" weight="12">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="419" source="america" target="scotus" weight="9">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="420" source="america" target="sidneypowell" weight="8">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="421" source="america" target="rigged" weight="7">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="422" source="america" target="supremecourt" weight="7">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="423" source="america" target="trumptrain" weight="6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="424" source="america" target="dominion" weight="6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="425" source="america" target="whitehouse" weight="3">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="426" source="america" target="treason" weight="1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="427" source="antifa" target="blm" weight="6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="428" source="election2020" target="election" weight="3">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="429" source="patriotparty" target="stopthesteal2020" weight="13">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="430" source="maga2020" target="cdnpoli" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="431" source="freedom" target="insurrectionact" weight="26">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="432" source="freedom" target="jan6th" weight="25">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="433" source="freedom" target="patriotswaiting" weight="17">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="434" source="freedom" target="constitution" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="435" source="millionmoronmarch" target="millionmoronmarch" weight="58">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="436" source="donotcertify" target="voterfraudisreal" weight="1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="437" source="donotcertify" target="standwithtrump" weight="1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="438" source="treason" target="trumptrain" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="439" source="whitehouse" target="mailinballots" weight="4">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="440" source="whitehouse" target="rigged" weight="4">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="441" source="whitehouse" target="dominion" weight="4">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="442" source="whitehouse" target="sidneypowell" weight="4">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="443" source="whitehouse" target="supremecourt" weight="3">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="444" source="whitehouse" target="scotus" weight="3">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="445" source="jan6th" target="insurrectionact" weight="25">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="446" source="jan6th" target="patriotswaiting" weight="17">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="447" source="dominion" target="rigged" weight="8">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="448" source="dominion" target="sidneypowell" weight="7">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="449" source="dominion" target="mailinballots" weight="7">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="450" source="dominion" target="supremecourt" weight="6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="451" source="dominion" target="scotus" weight="6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="452" source="congress" target="mikepence" weight="5">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="453" source="standwithtrump" target="voterfraudisreal" weight="1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="454" source="italydidit" target="contecomeclean" weight="1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="455" source="miga" target="restart_opposition" weight="17">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="456" source="miga" target="restartmiga" weight="1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="457" source="stopthesteai" target="stopthesteai" weight="33">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="458" source="electoralcollege" target="votes" weight="6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="459" source="insurrectionact" target="patriotswaiting" weight="17">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="460" source="walkaway" target="tcot" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="461" source="walkaway" target="teaparty" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="462" source="walkaway" target="military" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="463" source="walkaway" target="ccot" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="464" source="walkaway" target="genz" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="465" source="walkaway" target="nra" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="466" source="walkaway" target="millennial" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="467" source="fourmoreyears" target="defendtherepublic" weight="6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="468" source="fourmoreyears" target="rinos" weight="6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="469" source="fourmoreyears" target="swamp" weight="6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="470" source="rigged" target="sidneypowell" weight="8">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="471" source="rigged" target="mailinballots" weight="8">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="472" source="rigged" target="scotus" weight="7">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="473" source="rigged" target="supremecourt" weight="7">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="474" source="trumptrain" target="mailinballots" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="475" source="defendtherepublic" target="swamp" weight="6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="476" source="defendtherepublic" target="rinos" weight="6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="477" source="scotus" target="supremecourt" weight="8">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="478" source="scotus" target="mailinballots" weight="8">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="479" source="scotus" target="sidneypowell" weight="8">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="480" source="mailinballots" target="sidneypowell" weight="9">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="481" source="mailinballots" target="supremecourt" weight="8">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="482" source="rinos" target="swamp" weight="6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="483" source="supremecourt" target="sidneypowell" weight="8">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="484" source="tcot" target="ccot" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="485" source="tcot" target="teaparty" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="486" source="tcot" target="military" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="487" source="tcot" target="millennial" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="488" source="tcot" target="genz" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="489" source="tcot" target="nra" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="490" source="不正選挙" target="米大統領選挙" weight="6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="491" source="不正選挙" target="アメリカ大統領選" weight="5">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="492" source="アメリカ大統領選" target="米大統領選挙" weight="5">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="493" source="ccot" target="genz" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="494" source="ccot" target="nra" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="495" source="ccot" target="teaparty" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="496" source="ccot" target="military" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="497" source="ccot" target="millennial" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="498" source="rallyindc" target="constitutionoftheunitedstatesofamerica" weight="4">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="499" source="teaparty" target="genz" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="500" source="teaparty" target="military" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="501" source="teaparty" target="nra" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="502" source="teaparty" target="millennial" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="503" source="military" target="genz" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="504" source="military" target="millennial" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="505" source="military" target="nra" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="506" source="genz" target="millennial" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="507" source="genz" target="nra" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="508" source="millennial" target="nra" weight="2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge id="509" source="wearewatching" target="wearewatching" weight="1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
