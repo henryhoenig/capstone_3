@@ -1,4 +1,4 @@
-# Examining Twitter content around the #StopTheSteal hashtag
+# Examining Twitter content around #StopTheSteal
 
 &nbsp;
 
