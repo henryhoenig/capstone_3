@@ -14,7 +14,7 @@
 
 &nbsp;
 
-### A network graph of some of the most tweeted hashtags
+### A network graph of some of the most tweeted co-occurring hashtags
 
 ![hash45](https://user-images.githubusercontent.com/29707241/119089742-3f397b80-b9d0-11eb-979b-1a327f737211.png)
 
@@ -29,8 +29,8 @@
 &nbsp;
 
 
-### Zooming in Further
-&nbsp;
+### Zooming in on sub-graphs in the main graph
+
 ![MAGA45](https://user-images.githubusercontent.com/29707241/119091045-13b79080-b9d2-11eb-99e8-5083ba91af8b.png)
 
 
@@ -59,9 +59,7 @@
 &nbsp;
 
 
-### Zooming in on the mentions
-
-&nbsp;
+### Zooming in on the co-occurring mentions
 
 ![trumpmentions](https://user-images.githubusercontent.com/29707241/119091138-39449a00-b9d2-11eb-8f3f-ddf5bbb67be3.png)
 
