@@ -2,8 +2,6 @@
 
 &nbsp;
 
-![download](https://user-images.githubusercontent.com/29707241/119088998-22507880-b9cf-11eb-86c4-638ae60e9f03.jpeg)
-
 
 * I scraped all tweets containing #StopTheSteal from Jan. 5 until Jan. 7, shortly before and after the storming of the U.S. Capitol. That was about 16,000 tweets from about 7,000 acccounts. (Note: Many accounts were permanently suspended by Twitter in the days and weeks after Jan. 6.)
 
