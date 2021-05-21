@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
-  <meta lastmodifieddate="2021-04-22">
-    <creator>NetworkX 2.5</creator>
+  <meta lastmodifieddate="2021-05-20">
+    <creator>NetworkX 2.5.1</creator>
   </meta>
   <graph defaultedgetype="undirected" mode="static" name="">
     <attributes class="edge" mode="static">
@@ -16,8 +16,8 @@
       <node id="senate republicans" label="senate republicans" />
       <node id="gop" label="gop" />
       <node id="greg kelly" label="greg kelly" />
-      <node id="brandon straka" label="brandon straka" />
       <node id="ezra a. cohen" label="ezra a. cohen" />
+      <node id="brandon straka" label="brandon straka" />
       <node id="u.s. supreme court" label="u.s. supreme court" />
       <node id="senator john cornyn" label="senator john cornyn" />
       <node id="ronna mcdaniel" label="ronna mcdaniel" />
@@ -25,9 +25,9 @@
       <node id="vice president kamala harris" label="vice president kamala harris" />
       <node id="mike pence" label="mike pence" />
       <node id="rudy w. giuliani" label="rudy w. giuliani" />
-      <node id="kevin mccarthy" label="kevin mccarthy" />
       <node id="nbc news" label="nbc news" />
       <node id="fox news" label="fox news" />
+      <node id="kevin mccarthy" label="kevin mccarthy" />
       <node id="donald trump jr." label="donald trump jr." />
       <node id="lin wood" label="lin wood" />
       <node id="sidney powell 🇺🇸⭐⭐⭐ #kraken" label="sidney powell 🇺🇸⭐⭐⭐ #kraken" />
@@ -35,202 +35,202 @@
       <node id="general flynn" label="general flynn" />
     </nodes>
     <edges>
-      <edge id="0" source="one america news" target="newsmax" weight="1.0">
+      <edge id="0" source="one america news" target="newsmax" weight="0.7532467532467533">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="1" source="one america news" target="greg kelly" weight="0.5431034482758621">
+      <edge id="1" source="one america news" target="greg kelly" weight="0.4090909090909091">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="2" source="one america news" target="donald j. trump" weight="0.4913793103448275">
+      <edge id="2" source="one america news" target="donald j. trump" weight="0.3701298701298701">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="3" source="one america news" target="brandon straka" weight="0.4396551724137931">
+      <edge id="3" source="one america news" target="ezra a. cohen" weight="0.3311688311688311">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="4" source="one america news" target="ezra a. cohen" weight="0.4396551724137931">
+      <edge id="4" source="one america news" target="brandon straka" weight="0.3311688311688311">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="5" source="one america news" target="house republicans" weight="0.4396551724137931">
+      <edge id="5" source="one america news" target="u.s. supreme court" weight="0.3311688311688311">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="6" source="one america news" target="u.s. supreme court" weight="0.4396551724137931">
+      <edge id="6" source="one america news" target="senate republicans" weight="0.3311688311688311">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="7" source="one america news" target="senate republicans" weight="0.4396551724137931">
+      <edge id="7" source="one america news" target="house republicans" weight="0.3311688311688311">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="8" source="one america news" target="fox news" weight="0.103448275862069">
+      <edge id="8" source="one america news" target="fox news" weight="0.0779220779220779">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="9" source="one america news" target="breitbart news" weight="0.0603448275862069">
+      <edge id="9" source="one america news" target="breitbart news" weight="0.0454545454545454">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="10" source="newsmax" target="greg kelly" weight="0.5431034482758621">
+      <edge id="10" source="newsmax" target="greg kelly" weight="0.4090909090909091">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="11" source="newsmax" target="donald j. trump" weight="0.4827586206896552">
+      <edge id="11" source="newsmax" target="donald j. trump" weight="0.3636363636363637">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="12" source="newsmax" target="senate republicans" weight="0.4396551724137931">
+      <edge id="12" source="newsmax" target="senate republicans" weight="0.3311688311688311">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="13" source="newsmax" target="u.s. supreme court" weight="0.4310344827586207">
+      <edge id="13" source="newsmax" target="ezra a. cohen" weight="0.3246753246753247">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="14" source="newsmax" target="house republicans" weight="0.4310344827586207">
+      <edge id="14" source="newsmax" target="brandon straka" weight="0.3246753246753247">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="15" source="newsmax" target="brandon straka" weight="0.4310344827586207">
+      <edge id="15" source="newsmax" target="u.s. supreme court" weight="0.3246753246753247">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="16" source="newsmax" target="ezra a. cohen" weight="0.4310344827586207">
+      <edge id="16" source="newsmax" target="house republicans" weight="0.3246753246753247">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="17" source="newsmax" target="fox news" weight="0.0948275862068965">
+      <edge id="17" source="newsmax" target="fox news" weight="0.0714285714285714">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="18" source="newsmax" target="breitbart news" weight="0.0603448275862069">
+      <edge id="18" source="newsmax" target="breitbart news" weight="0.0454545454545454">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="19" source="donald j. trump" target="senator ted cruz" weight="0.7758620689655171">
+      <edge id="19" source="donald j. trump" target="senator ted cruz" weight="0.5844155844155845">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="20" source="donald j. trump" target="gop" weight="0.1724137931034482">
+      <edge id="20" source="donald j. trump" target="gop" weight="0.8831168831168832">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="21" source="donald j. trump" target="senate republicans" weight="0.0">
+      <edge id="21" source="donald j. trump" target="senate republicans" weight="0.7467532467532467">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="22" source="donald j. trump" target="house republicans" weight="0.5258620689655171">
+      <edge id="22" source="donald j. trump" target="house republicans" weight="0.3961038961038961">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="23" source="donald j. trump" target="ezra a. cohen" weight="0.4396551724137931">
+      <edge id="23" source="donald j. trump" target="brandon straka" weight="0.3311688311688311">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="24" source="donald j. trump" target="greg kelly" weight="0.4396551724137931">
+      <edge id="24" source="donald j. trump" target="greg kelly" weight="0.3311688311688311">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="25" source="donald j. trump" target="brandon straka" weight="0.4396551724137931">
+      <edge id="25" source="donald j. trump" target="u.s. supreme court" weight="0.3311688311688311">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="26" source="donald j. trump" target="u.s. supreme court" weight="0.4396551724137931">
+      <edge id="26" source="donald j. trump" target="ezra a. cohen" weight="0.3311688311688311">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="27" source="donald j. trump" target="senator john cornyn" weight="0.4310344827586207">
+      <edge id="27" source="donald j. trump" target="senator john cornyn" weight="0.3246753246753247">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="28" source="donald j. trump" target="ronna mcdaniel" weight="0.4137931034482758">
+      <edge id="28" source="donald j. trump" target="ronna mcdaniel" weight="0.3116883116883117">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="29" source="donald j. trump" target="troy nehls" weight="0.396551724137931">
+      <edge id="29" source="donald j. trump" target="troy nehls" weight="0.2987012987012987">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="30" source="donald j. trump" target="mike pence" weight="0.2758620689655173">
+      <edge id="30" source="donald j. trump" target="mike pence" weight="0.2077922077922078">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="31" source="donald j. trump" target="vice president kamala harris" weight="0.2241379310344827">
+      <edge id="31" source="donald j. trump" target="vice president kamala harris" weight="0.1688311688311688">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="32" source="donald j. trump" target="rudy w. giuliani" weight="0.1896551724137931">
+      <edge id="32" source="donald j. trump" target="rudy w. giuliani" weight="0.1428571428571429">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="33" source="donald j. trump" target="donald trump jr." weight="0.103448275862069">
+      <edge id="33" source="donald j. trump" target="donald trump jr." weight="0.0779220779220779">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="34" source="donald j. trump" target="lin wood" weight="0.0517241379310344">
+      <edge id="34" source="donald j. trump" target="lin wood" weight="0.0389610389610389">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="35" source="donald j. trump" target="kevin mccarthy" weight="0.0258620689655172">
+      <edge id="35" source="donald j. trump" target="kevin mccarthy" weight="0.0194805194805194">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="36" source="senator ted cruz" target="senator john cornyn" weight="0.2844827586206896">
+      <edge id="36" source="senator ted cruz" target="senator john cornyn" weight="0.2142857142857143">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="37" source="senator ted cruz" target="gop" weight="0.2758620689655173">
+      <edge id="37" source="senator ted cruz" target="gop" weight="0.2077922077922078">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="38" source="senator ted cruz" target="ronna mcdaniel" weight="0.2586206896551724">
+      <edge id="38" source="senator ted cruz" target="ronna mcdaniel" weight="0.1948051948051948">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="39" source="senator ted cruz" target="troy nehls" weight="0.2586206896551724">
+      <edge id="39" source="senator ted cruz" target="troy nehls" weight="0.1948051948051948">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
@@ -240,172 +240,172 @@
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="41" source="house republicans" target="senate republicans" weight="0.25">
+      <edge id="41" source="house republicans" target="senate republicans" weight="1.0">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="42" source="house republicans" target="greg kelly" weight="0.4482758620689654">
+      <edge id="42" source="house republicans" target="greg kelly" weight="0.3376623376623377">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="43" source="house republicans" target="brandon straka" weight="0.4396551724137931">
+      <edge id="43" source="house republicans" target="u.s. supreme court" weight="0.3311688311688311">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="44" source="house republicans" target="ezra a. cohen" weight="0.4396551724137931">
+      <edge id="44" source="house republicans" target="ezra a. cohen" weight="0.3311688311688311">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="45" source="house republicans" target="u.s. supreme court" weight="0.4396551724137931">
+      <edge id="45" source="house republicans" target="brandon straka" weight="0.3311688311688311">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="46" source="house republicans" target="gop" weight="0.1293103448275862">
+      <edge id="46" source="house republicans" target="gop" weight="0.0974025974025974">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="47" source="house republicans" target="kevin mccarthy" weight="0.0172413793103448">
+      <edge id="47" source="house republicans" target="kevin mccarthy" weight="0.0129870129870129">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="48" source="senate republicans" target="greg kelly" weight="0.4568965517241379">
+      <edge id="48" source="senate republicans" target="greg kelly" weight="0.3441558441558441">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="49" source="senate republicans" target="brandon straka" weight="0.4396551724137931">
+      <edge id="49" source="senate republicans" target="ezra a. cohen" weight="0.3311688311688311">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="50" source="senate republicans" target="u.s. supreme court" weight="0.4396551724137931">
+      <edge id="50" source="senate republicans" target="brandon straka" weight="0.3311688311688311">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="51" source="senate republicans" target="ezra a. cohen" weight="0.4396551724137931">
+      <edge id="51" source="senate republicans" target="u.s. supreme court" weight="0.3311688311688311">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="52" source="senate republicans" target="gop" weight="0.1206896551724137">
+      <edge id="52" source="senate republicans" target="gop" weight="0.0909090909090909">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="53" source="senate republicans" target="kevin mccarthy" weight="0.0258620689655172">
+      <edge id="53" source="senate republicans" target="kevin mccarthy" weight="0.0194805194805194">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="54" source="gop" target="ronna mcdaniel" weight="0.4224137931034482">
+      <edge id="54" source="gop" target="ronna mcdaniel" weight="0.3181818181818182">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="55" source="gop" target="senator john cornyn" weight="0.4051724137931035">
+      <edge id="55" source="gop" target="senator john cornyn" weight="0.3051948051948052">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="56" source="gop" target="troy nehls" weight="0.396551724137931">
+      <edge id="56" source="gop" target="troy nehls" weight="0.2987012987012987">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="57" source="gop" target="mike pence" weight="0.1293103448275862">
+      <edge id="57" source="gop" target="mike pence" weight="0.0974025974025974">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="58" source="gop" target="kevin mccarthy" weight="0.1120689655172413">
+      <edge id="58" source="gop" target="kevin mccarthy" weight="0.0844155844155844">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="59" source="gop" target="vice president kamala harris" weight="0.0603448275862069">
+      <edge id="59" source="gop" target="vice president kamala harris" weight="0.0454545454545454">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="60" source="greg kelly" target="brandon straka" weight="0.4310344827586207">
+      <edge id="60" source="greg kelly" target="u.s. supreme court" weight="0.3246753246753247">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="61" source="greg kelly" target="ezra a. cohen" weight="0.4310344827586207">
+      <edge id="61" source="greg kelly" target="ezra a. cohen" weight="0.3246753246753247">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="62" source="greg kelly" target="u.s. supreme court" weight="0.4310344827586207">
+      <edge id="62" source="greg kelly" target="brandon straka" weight="0.3246753246753247">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="63" source="brandon straka" target="ezra a. cohen" weight="0.4396551724137931">
+      <edge id="63" source="ezra a. cohen" target="brandon straka" weight="0.3311688311688311">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="64" source="brandon straka" target="u.s. supreme court" weight="0.4396551724137931">
+      <edge id="64" source="ezra a. cohen" target="u.s. supreme court" weight="0.3311688311688311">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="65" source="ezra a. cohen" target="u.s. supreme court" weight="0.4396551724137931">
+      <edge id="65" source="brandon straka" target="u.s. supreme court" weight="0.3311688311688311">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="66" source="senator john cornyn" target="troy nehls" weight="0.4051724137931035">
+      <edge id="66" source="senator john cornyn" target="ronna mcdaniel" weight="0.3051948051948052">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="67" source="senator john cornyn" target="ronna mcdaniel" weight="0.4051724137931035">
+      <edge id="67" source="senator john cornyn" target="troy nehls" weight="0.3051948051948052">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="68" source="senator john cornyn" target="mike pence" weight="0.0603448275862069">
+      <edge id="68" source="senator john cornyn" target="mike pence" weight="0.0454545454545454">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="69" source="ronna mcdaniel" target="troy nehls" weight="0.396551724137931">
+      <edge id="69" source="ronna mcdaniel" target="troy nehls" weight="0.2987012987012987">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="70" source="ronna mcdaniel" target="mike pence" weight="0.0689655172413792">
+      <edge id="70" source="ronna mcdaniel" target="mike pence" weight="0.0519480519480519">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="71" source="troy nehls" target="mike pence" weight="0.0517241379310344">
+      <edge id="71" source="troy nehls" target="mike pence" weight="0.0389610389610389">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="72" source="vice president kamala harris" target="mike pence" weight="0.3362068965517241">
+      <edge id="72" source="vice president kamala harris" target="mike pence" weight="0.2532467532467533">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="73" source="nbc news" target="fox news" weight="0.1120689655172413">
+      <edge id="73" source="nbc news" target="fox news" weight="0.0844155844155844">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="74" source="lin wood" target="sidney powell 🇺🇸⭐⭐⭐ #kraken" weight="0.0948275862068965">
+      <edge id="74" source="lin wood" target="sidney powell 🇺🇸⭐⭐⭐ #kraken" weight="0.0714285714285714">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>

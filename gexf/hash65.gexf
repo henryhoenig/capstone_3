@@ -1,15 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
-  <meta lastmodifieddate="2021-04-22">
-    <creator>NetworkX 2.5</creator>
+  <meta lastmodifieddate="2021-05-21">
+    <creator>NetworkX 2.5.1</creator>
   </meta>
   <graph defaultedgetype="undirected" mode="static" name="">
     <attributes class="edge" mode="static">
       <attribute id="0" title="networkx_key" type="long" />
     </attributes>
     <nodes>
-      <node id="americafirst" label="americafirst" />
-      <node id="auditallvotes" label="auditallvotes" />
       <node id="maga" label="maga" />
       <node id="stopthesteal" label="stopthesteal" />
       <node id="trump" label="trump" />
@@ -25,12 +23,13 @@
       <node id="draintheswamp" label="draintheswamp" />
       <node id="electionfraud" label="electionfraud" />
       <node id="jan6" label="jan6" />
+      <node id="americafirst" label="americafirst" />
       <node id="speakupgop" label="speakupgop" />
       <node id="primaryrinos" label="primaryrinos" />
       <node id="gop" label="gop" />
       <node id="georgia" label="georgia" />
-      <node id="traitortrump" label="traitortrump" />
       <node id="electionintegritymatters" label="electionintegritymatters" />
+      <node id="traitortrump" label="traitortrump" />
       <node id="trumplieseverytimehespeaks" label="trumplieseverytimehespeaks" />
       <node id="trumpcorruption" label="trumpcorruption" />
       <node id="capitol" label="capitol" />
@@ -48,8 +47,8 @@
       <node id="patriotparty" label="patriotparty" />
       <node id="savetrumplandslide" label="savetrumplandslide" />
       <node id="trumprally" label="trumprally" />
-      <node id="stopthesteai2021" label="stopthesteai2021" />
       <node id="january6th" label="january6th" />
+      <node id="stopthesteai2021" label="stopthesteai2021" />
       <node id="electionintegrity" label="electionintegrity" />
       <node id="patriots" label="patriots" />
       <node id="dc" label="dc" />
@@ -64,392 +63,387 @@
       <node id="whitehouse" label="whitehouse" />
     </nodes>
     <edges>
-      <edge id="0" source="americafirst" target="auditallvotes" weight="949">
+      <edge id="0" source="maga" target="stopthesteal" weight="1.0">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="1" source="americafirst" target="stopthesteal" weight="118">
+      <edge id="1" source="maga" target="trump" weight="0.1689059500959693">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="2" source="maga" target="stopthesteal" weight="640">
+      <edge id="2" source="maga" target="kag" weight="0.0684580934101087">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="3" source="maga" target="trump" weight="61">
+      <edge id="3" source="maga" target="trump2020" weight="0.1196417146513115">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="4" source="maga" target="kag" weight="153">
+      <edge id="4" source="maga" target="gop" weight="0.0307101727447216">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="5" source="maga" target="trump2020" weight="102">
+      <edge id="5" source="maga" target="fightfortrump" weight="0.0275111964171465">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="6" source="maga" target="gop" weight="94">
+      <edge id="6" source="maga" target="kraken" weight="0.0217530390275111">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="7" source="maga" target="fightfortrump" weight="89">
+      <edge id="7" source="maga" target="fightback" weight="0.000639795265515">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="8" source="maga" target="kraken" weight="80">
+      <edge id="8" source="stopthesteal" target="trump" weight="0.4881637875879718">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="9" source="maga" target="fightback" weight="47">
+      <edge id="9" source="stopthesteal" target="marchfortrump" weight="0.3448496481126039">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="10" source="stopthesteal" target="trump" weight="266">
+      <edge id="10" source="stopthesteal" target="fightfortrump" weight="0.4504158669225847">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="11" source="stopthesteal" target="marchfortrump" weight="89">
+      <edge id="11" source="stopthesteal" target="trumpwon" weight="0.3134996801023672">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="12" source="stopthesteal" target="fightfortrump" weight="269">
+      <edge id="12" source="stopthesteal" target="trump2020" weight="0.3442098528470889">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="13" source="stopthesteal" target="trumpwon" weight="194">
+      <edge id="13" source="stopthesteal" target="世界をひっくり返そう" weight="0.1273192578374919">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="14" source="stopthesteal" target="trump2020" weight="246">
+      <edge id="14" source="stopthesteal" target="wethepeople" weight="0.2488803582853486">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="15" source="stopthesteal" target="世界をひっくり返そう" weight="245">
+      <edge id="15" source="stopthesteal" target="stopthecoup" weight="0.1004478566858605">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="16" source="stopthesteal" target="wethepeople" weight="190">
+      <edge id="16" source="stopthesteal" target="fightback" weight="0.1721049264235444">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="17" source="stopthesteal" target="stopthecoup" weight="203">
+      <edge id="17" source="stopthesteal" target="draintheswamp" weight="0.0665387076135636">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="18" source="stopthesteal" target="fightback" weight="137">
+      <edge id="18" source="stopthesteal" target="electionfraud" weight="0.1298784388995521">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="19" source="stopthesteal" target="draintheswamp" weight="150">
+      <edge id="19" source="stopthesteal" target="jan6" weight="0.1401151631477926">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="20" source="stopthesteal" target="electionfraud" weight="84">
+      <edge id="20" source="stopthesteal" target="americafirst" weight="0.0460652591170825">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="21" source="stopthesteal" target="jan6" weight="101">
+      <edge id="21" source="stopthesteal" target="speakupgop" weight="0.0460652591170825">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="22" source="stopthesteal" target="speakupgop" weight="118">
+      <edge id="22" source="stopthesteal" target="primaryrinos" weight="0.0454254638515674">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="23" source="stopthesteal" target="primaryrinos" weight="117">
+      <edge id="23" source="stopthesteal" target="gop" weight="0.0889315419065898">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="24" source="stopthesteal" target="kag" weight="92">
+      <edge id="24" source="stopthesteal" target="kag" weight="0.1164427383237363">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="25" source="stopthesteal" target="gop" weight="49">
+      <edge id="25" source="stopthesteal" target="georgia" weight="0.1004478566858605">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="26" source="stopthesteal" target="georgia" weight="69">
+      <edge id="26" source="stopthesteal" target="electionintegritymatters" weight="0.0396673064619321">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="27" source="stopthesteal" target="traitortrump" weight="108">
+      <edge id="27" source="stopthesteal" target="traitortrump" weight="0.0396673064619321">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="28" source="stopthesteal" target="electionintegritymatters" weight="108">
+      <edge id="28" source="stopthesteal" target="trumpcorruption" weight="0.037747920665387">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="29" source="stopthesteal" target="trumplieseverytimehespeaks" weight="105">
+      <edge id="29" source="stopthesteal" target="trumplieseverytimehespeaks" weight="0.037747920665387">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="30" source="stopthesteal" target="trumpcorruption" weight="105">
+      <edge id="30" source="stopthesteal" target="capitol" weight="0.0339091490722968">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="31" source="stopthesteal" target="capitol" weight="99">
+      <edge id="31" source="stopthesteal" target="voterfraud" weight="0.0294305822136916">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="32" source="stopthesteal" target="voterfraud" weight="92">
+      <edge id="32" source="stopthesteal" target="washingtondc" weight="0.0940499040307101">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="33" source="stopthesteal" target="washingtondc" weight="85">
+      <edge id="33" source="stopthesteal" target="electionfraud2020" weight="0.0268714011516314">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="34" source="stopthesteal" target="electionfraud2020" weight="88">
+      <edge id="34" source="stopthesteal" target="usa" weight="0.0761356365962891">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="35" source="stopthesteal" target="usa" weight="58">
+      <edge id="35" source="stopthesteal" target="fightforamerica" weight="0.0255918106206014">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="36" source="stopthesteal" target="fightforamerica" weight="86">
+      <edge id="36" source="stopthesteal" target="holdtheline" weight="0.09149072296865">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="37" source="stopthesteal" target="holdtheline" weight="84">
+      <edge id="37" source="stopthesteal" target="saveamerica" weight="0.0243122200895713">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="38" source="stopthesteal" target="saveamerica" weight="84">
+      <edge id="38" source="stopthesteal" target="kraken" weight="0.0230326295585412">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="39" source="stopthesteal" target="kraken" weight="82">
+      <edge id="39" source="stopthesteal" target="america" weight="0.0223928342930262">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="40" source="stopthesteal" target="america" weight="81">
+      <edge id="40" source="stopthesteal" target="antifa" weight="0.0678182981445937">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="41" source="stopthesteal" target="antifa" weight="52">
+      <edge id="41" source="stopthesteal" target="election2020" weight="0.073576455534229">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="42" source="stopthesteal" target="election2020" weight="62">
+      <edge id="42" source="stopthesteal" target="patriotparty" weight="0.0204734484964811">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="43" source="stopthesteal" target="patriotparty" weight="78">
+      <edge id="43" source="stopthesteal" target="savetrumplandslide" weight="0.019833653230966">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="44" source="stopthesteal" target="savetrumplandslide" weight="77">
+      <edge id="44" source="stopthesteal" target="trumprally" weight="0.018554062699936">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="45" source="stopthesteal" target="trumprally" weight="75">
+      <edge id="45" source="stopthesteal" target="january6th" weight="0.0172744721689059">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="46" source="stopthesteal" target="stopthesteai2021" weight="73">
+      <edge id="46" source="stopthesteal" target="stopthesteai2021" weight="0.0172744721689059">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="47" source="stopthesteal" target="january6th" weight="73">
+      <edge id="47" source="stopthesteal" target="electionintegrity" weight="0.0716570697376839">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="48" source="stopthesteal" target="electionintegrity" weight="66">
+      <edge id="48" source="stopthesteal" target="patriots" weight="0.055662188099808">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="49" source="stopthesteal" target="patriots" weight="49">
+      <edge id="49" source="stopthesteal" target="dc" weight="0.0108765195137555">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="50" source="stopthesteal" target="dc" weight="63">
+      <edge id="50" source="stopthesteal" target="stopthesteal2020" weight="0.0102367242482405">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="51" source="stopthesteal" target="stopthesteal2020" weight="62">
+      <edge id="51" source="stopthesteal" target="maga2020" weight="0.0095969289827255">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="52" source="stopthesteal" target="maga2020" weight="61">
+      <edge id="52" source="stopthesteal" target="freedom" weight="0.0083173384516954">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="53" source="stopthesteal" target="freedom" weight="59">
+      <edge id="53" source="stopthesteal" target="wwg1wga" weight="0.0070377479206653">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="54" source="stopthesteal" target="wwg1wga" weight="57">
+      <edge id="54" source="stopthesteal" target="donotcertify" weight="0.0044785668586052">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="55" source="stopthesteal" target="donotcertify" weight="53">
+      <edge id="55" source="stopthesteal" target="stopthesteal" weight="0.0499040307101727">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="56" source="stopthesteal" target="stopthesteal" weight="52">
+      <edge id="56" source="stopthesteal" target="treason" weight="0.0019193857965451">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="57" source="stopthesteal" target="treason" weight="49">
+      <edge id="57" source="stopthesteal" target="trump2020tosaveamerica" weight="0.000639795265515">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="58" source="stopthesteal" target="trump2020tosaveamerica" weight="47">
+      <edge id="58" source="stopthesteal" target="whitehouse" weight="0.0">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="59" source="stopthesteal" target="whitehouse" weight="46">
+      <edge id="59" source="trump" target="gop" weight="0.0249520153550863">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="60" source="trump" target="gop" weight="85">
+      <edge id="60" source="trump" target="kraken" weight="0.0127959053103007">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="61" source="trump" target="kraken" weight="66">
+      <edge id="61" source="marchfortrump" target="世界をひっくり返そう" weight="0.1222008957133717">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="62" source="marchfortrump" target="世界をひっくり返そう" weight="237">
+      <edge id="62" source="fightfortrump" target="fightforamerica" weight="0.0076775431861804">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="63" source="fightfortrump" target="fightforamerica" weight="58">
+      <edge id="63" source="trumpwon" target="primaryrinos" weight="0.0441458733205374">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="64" source="trumpwon" target="stopthecoup" weight="115">
+      <edge id="64" source="trumpwon" target="stopthecoup" weight="0.0441458733205374">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="65" source="trumpwon" target="primaryrinos" weight="115">
+      <edge id="65" source="trumpwon" target="electionfraud2020" weight="0.0230326295585412">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="66" source="trumpwon" target="electionintegritymatters" weight="82">
+      <edge id="66" source="trumpwon" target="electionintegritymatters" weight="0.0230326295585412">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="67" source="trumpwon" target="electionfraud2020" weight="82">
+      <edge id="67" source="trumpwon" target="savetrumplandslide" weight="0.019833653230966">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="68" source="trumpwon" target="savetrumplandslide" weight="77">
+      <edge id="68" source="stopthecoup" target="primaryrinos" weight="0.0441458733205374">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="69" source="stopthecoup" target="primaryrinos" weight="115">
+      <edge id="69" source="stopthecoup" target="savetrumplandslide" weight="0.019833653230966">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="70" source="stopthecoup" target="savetrumplandslide" weight="77">
+      <edge id="70" source="primaryrinos" target="savetrumplandslide" weight="0.019833653230966">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="71" source="primaryrinos" target="savetrumplandslide" weight="77">
+      <edge id="71" source="gop" target="kraken" weight="0.0102367242482405">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="72" source="gop" target="kraken" weight="62">
+      <edge id="72" source="electionintegritymatters" target="electionfraud2020" weight="0.0230326295585412">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="73" source="traitortrump" target="trumplieseverytimehespeaks" weight="105">
+      <edge id="73" source="traitortrump" target="trumplieseverytimehespeaks" weight="0.037747920665387">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="74" source="traitortrump" target="trumpcorruption" weight="105">
+      <edge id="74" source="traitortrump" target="trumpcorruption" weight="0.037747920665387">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="75" source="electionintegritymatters" target="electionfraud2020" weight="82">
+      <edge id="75" source="trumplieseverytimehespeaks" target="trumpcorruption" weight="0.037747920665387">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
       </edge>
-      <edge id="76" source="trumplieseverytimehespeaks" target="trumpcorruption" weight="105">
-        <attvalues>
-          <attvalue for="0" value="0" />
-        </attvalues>
-      </edge>
-      <edge id="77" source="millionmoronmarch" target="millionmoronmarch" weight="58">
+      <edge id="76" source="millionmoronmarch" target="millionmoronmarch" weight="0.0575815738963531">
         <attvalues>
           <attvalue for="0" value="0" />
         </attvalues>
