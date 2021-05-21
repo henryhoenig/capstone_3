@@ -1,5 +1,8 @@
 # Examining Twitter content around #StopTheSteal
 
+
+![hash45](https://user-images.githubusercontent.com/29707241/119089742-3f397b80-b9d0-11eb-979b-1a327f737211.png)
+
 &nbsp;
 
 
@@ -9,15 +12,7 @@
 
 * The purpose was to see what topics and people were associated in the minds of those tweeting #StopTheSteal at this time.
 
-
 &nbsp;
-
-### A network graph of some of the most tweeted co-occurring hashtags
-
-![hash45](https://user-images.githubusercontent.com/29707241/119089742-3f397b80-b9d0-11eb-979b-1a327f737211.png)
-
-&nbsp;
-
 ### Getting more selective offers a clearer view of some of the connections
 
 
