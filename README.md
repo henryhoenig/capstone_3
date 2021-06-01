@@ -17,7 +17,7 @@
 
 
 &nbsp;
-### Getting even more selective offers a clearer view of some of the connections among hashtags
+#### Getting even more selective offers a clearer view of some of the connections among hashtags. The thicker the lines, the stronger the connection.
 
 
 ![hash65_screen2](https://user-images.githubusercontent.com/29707241/119090099-c981df80-b9d0-11eb-8143-1fd7d973928a.png)
@@ -26,12 +26,14 @@
 &nbsp;
 
 
-### Zooming in on sub-graphs in the main graph
+#### Zooming in on sub-graphs in the main graph offers a more granular view. #MAGA was the hashtag most strongly linked to #StopTheSteal.
 
 ![MAGA45](https://user-images.githubusercontent.com/29707241/119091045-13b79080-b9d2-11eb-99e8-5083ba91af8b.png)
 
 
 &nbsp;
+#### Naturally, the name Trump was also closely linked to #StopTheSteal.
+
 ![trump45](https://user-images.githubusercontent.com/29707241/119090241-ffbf5f00-b9d0-11eb-8a01-239a33b85c5f.png)
 
 
@@ -42,13 +44,13 @@
 
 &nbsp;
 
-* This Japanese phrase translates roughly as "turn it over," with revolutionary connotations. QAnon has a significant following in Japan.
+#### This Japanese phrase translates roughly as "turn it over," with revolutionary connotations. QAnon has a significant following in Japan.
 
 ![turnitover45](https://user-images.githubusercontent.com/29707241/119090368-2b424980-b9d1-11eb-9beb-2c9ba62527ca.png)
 
 
 &nbsp;
-### A network graph of some of the most frequent mentions
+#### A network graph of some of the most frequent mentions
 
 
 ![mentions50_curved](https://user-images.githubusercontent.com/29707241/119090821-b6234400-b9d1-11eb-86dc-3b0bd3630351.png)
@@ -56,7 +58,7 @@
 &nbsp;
 
 
-### Zooming in on the co-occurring mentions
+#### Zooming in on the co-occurring mentions
 
 ![trumpmentions](https://user-images.githubusercontent.com/29707241/119091138-39449a00-b9d2-11eb-8f3f-ddf5bbb67be3.png)
 
