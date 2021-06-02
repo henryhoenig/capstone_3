@@ -43,8 +43,6 @@
 
 ### Looking at Hashtag and Mentions With Network Analysis
 
-
-&nbsp;
 * Getting even more selective offers a clearer view of some of the connections among hashtags. 
 
 * The thicker the lines, the stronger the connection (the more frequent the co-occurrence).
@@ -105,11 +103,13 @@
 
 
 &nbsp;
+* Ezra Cohen-Watnick was a senior Trump intelligence official who some believed was "Q". 
 
 ![ezracohen](https://user-images.githubusercontent.com/29707241/119091162-42ce0200-b9d2-11eb-9a30-a59860b0b203.png)
 
 
 &nbsp;
+* Far-right news organizations Newsmax and One America News were prominent in the mentions.
 
 ![newsmax](https://user-images.githubusercontent.com/29707241/119091353-8a548e00-b9d2-11eb-8211-11dfd30b51d5.png)
 
