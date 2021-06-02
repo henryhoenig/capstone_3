@@ -15,6 +15,22 @@
 
 * I conducted network analysis on co-occurrences of hashtags and mentions, as well as topic modeling on the text using Latent Dirichlet Allocation. I chose only the most frequently occurring hashtags and mentions to build the network graphs.
 
+&nbsp;
+### Exploratory Data Analysis
+
+* With the elimination of the QAnon accounts, the most prolific tweeters were largely unknown.
+
+![top_tweeters2](https://user-images.githubusercontent.com/29707241/120519959-d9b69900-c398-11eb-88aa-884111191b43.png)
+
+&nbsp;
+* The single most retweeted tweet came from Terrence Williams, an actor. He tweeted a video of a woman, a Trump supporter, being asked to leave a flight to Washington, D.C., on Jan. 5, apparently because she made a joke about not wearing a mask. 
+
+![most_retweeted_singles](https://user-images.githubusercontent.com/29707241/120520270-35812200-c399-11eb-929c-38bc6e1f62dd.png)
+
+
+
+
+
 
 &nbsp;
 #### Getting even more selective offers a clearer view of some of the connections among hashtags. The thicker the lines, the stronger the connection.
