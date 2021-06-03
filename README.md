@@ -41,7 +41,7 @@
 
 
 
-### Looking at Hashtag and Mentions With Network Analysis
+### Looking at Hashtags and Mentions With Network Analysis
 
 * Getting even more selective offers a clearer view of some of the connections among hashtags. 
 
@@ -84,7 +84,7 @@
 
 
 &nbsp;
-* A network graph of some of the most frequent mentions
+* A network graph of some of the most frequent mentions. Again, the thicker the line, the more frequent the co-occurrences.
 
 
 ![mentions50_curved](https://user-images.githubusercontent.com/29707241/119090821-b6234400-b9d1-11eb-86dc-3b0bd3630351.png)
@@ -92,7 +92,7 @@
 &nbsp;
 
 
-* Zooming in on the co-occurring mentions
+* Zooming in on the co-occurring mentions.
 
 ![trumpmentions](https://user-images.githubusercontent.com/29707241/119091138-39449a00-b9d2-11eb-8f3f-ddf5bbb67be3.png)
 
@@ -109,7 +109,7 @@
 
 
 &nbsp;
-* Far-right news organizations Newsmax and One America News were prominent in the mentions.
+* Far-right news organizations Newsmax and One America News were prominent and frequently mentioned together.
 
 ![newsmax](https://user-images.githubusercontent.com/29707241/119091353-8a548e00-b9d2-11eb-8211-11dfd30b51d5.png)
 
